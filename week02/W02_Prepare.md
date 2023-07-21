@@ -115,3 +115,17 @@ print function
 > print(*objects, sep=" ", end="\n", file=sys.stdout, flush=False)
 >
 > Print objects to text stream *file*, separated by *sep* and followed by *end*. *sep*, *end*, *file* and *flush*, if present, must be given as named arguments. 
+
+The print function can take many objects that will be printed. Optionally, it can take parameters named *sep*, *end*, *file* and *flush* that must be named when they are used.
+
+**ex 4**
+```
+x = "sun"
+y = "moon"
+z = "stars"
+print(x, y, z, sep="|", flush=True)
+```
+```
+python example_4.py
+sun|moon|stars
+```
