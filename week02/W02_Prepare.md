@@ -32,8 +32,10 @@ Regardless of the function type (built-in, standard, third-party, user-defined),
 ```
 name = input("Please enter your name: ")
 print(f"Hello {name}")
+```
 
---python example_1.py
---Please enter your name: Miyuki
---Hello Miyuki
+```
+python example_1.py
+Please enter your name: Miyuki
+Hello Miyuki
 ```
