@@ -1,4 +1,5 @@
-# This is a python comment
 """
-This is also a python comment
+Python - COMMENTS
+
+Comments can be made using a # symbol or a """ triple quotation
 """
