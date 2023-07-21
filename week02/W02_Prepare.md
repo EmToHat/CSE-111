@@ -37,3 +37,8 @@ python example_1.py
 Please enter your name: Miyuki
 Hello Miyuki
 ```
+
+To call a function you need to the following 3 things: 
+1. The name of the function.
+2. The parameters that the function accepts.
+3. What the function does.
