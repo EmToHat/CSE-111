@@ -1,8 +1,6 @@
 # W02 Prepare: Calling Functions
 
 
-
-
 ### What is a Function?
 
 > A *function* is a group of statements (computer commands) that together perform one task. 
